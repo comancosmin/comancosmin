@@ -1,27 +1,20 @@
-
-# Hi, I'm Cosmin! 👋
-
+# Hi, I'm Cosmin 👋
 
 ## 🚀 About Me
-I am a Junior Front-End Developer, located in Brașov, Romania. I describe myself as a passionate developer who loves to code, to create wonderful animations and functionalities ❤️.
+I’m a Web Developer based in Brașov, Romania, currently working within an internal HoReCa company environment, where I develop and maintain both public-facing websites and custom internal web applications.
 
-In addition to my job, I enjoy creating and contributing to open source projects. This helps me learn a lot of new things, develop as a developer and support other open source projects.
-## More things about me :)
-👩‍💻 I'm currently working with React.js
+My work goes beyond standard frontend development. The websites and applications I’ve built were designed with real business objectives in mind and optimized for SEO, resulting in significant increases in traffic, visibility, and sales for the companies I worked with. These digital solutions supported marketing strategies and sales funnels, generating measurable growth compared to the period before my involvement.
 
-🧠 I'm currently learning React.js, Redux and Next.js
+In addition to the projects showcased here on GitHub, I have developed multiple private internal applications that cannot be published publicly. These include custom dashboards, internal tools, and API integrations used across different platforms, including integrations for TV displays and other custom digital systems tailored to specific operational needs.
 
-👯‍♀️ I'm looking to collaborate on big projects.
+I work closely with marketing and operational teams, translating ideas into scalable, maintainable, and performance-focused web solutions that have a direct impact on business results.
 
-🤔 I'm looking for help with React.js
+---
 
-💬 Ask me about all kind of front-end stuff.
+## 📌 Note
+Some of the most impactful projects I’ve worked on are internal company applications and custom integrations that cannot be publicly shared. The public repositories available here showcase my development approach, structure, and coding style.
 
-📫 How to reach me? www.cosmincoman.com
+---
 
-⚡️ Fun fact... I have a degree in engineering and I work as a developer
-
-
-## 🛠 Skills
-Javascript, HTML, CSS, React.js, Node.js, Bootstrap, SASS, Git, GitHub, Wordpress, PHP, Figma, Adobe Creative Tools
-
+## 🌍 Location
+Brașov, Romania
